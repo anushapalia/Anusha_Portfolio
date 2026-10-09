@@ -1,6 +1,6 @@
 # Anusha Palia — Portfolio
 
-Modern personal portfolio built with **Next.js 14 (App Router)**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. Dark-first UI with glassmorphism, scroll animations, and a single content file for easy edits.
+Modern personal portfolio built with **Next.js 14 (App Router)**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. Dark-only UI with glassmorphism, scroll animations, and a single content file for easy edits (theme is locked to dark for consistent contrast).
 
 ## Quick start
 
